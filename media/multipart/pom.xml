@@ -49,9 +49,9 @@
         <version>2.22.2</version>
     </parent>
 
-    <artifactId>jersey-media-multipart</artifactId>
+    <artifactId>jersey-media-multipart-ie-fix</artifactId>
     <packaging>jar</packaging>
-    <name>jersey-media-multipart</name>
+    <name>jersey-media-multipart-ie-fix</name>
 
     <description>
         Jersey Multipart entity providers support module.
